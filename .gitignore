@@ -2,3 +2,7 @@ tmp
 secrets.json
 .DS_Store
 node_modules
+.env
+searchPage.js
+searchRoam.js
+
